@@ -1,0 +1,7 @@
+.back-image{
+    background-image: url('../week2/background image/pexels-craig-adderley-1563356.jpg');
+    position:relative;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size:cover
+}
